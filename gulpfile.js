@@ -58,3 +58,9 @@ gulp.task("server", function() {
 
 // Default
 gulp.task("default", ["browserify", "sass", "markdown"]);
+
+gulp.task("watch", ["default"], function() {
+    gulp.watch("src/js/*.js", ["browserify"]);
+    gulp.watch("src/scss/*.scss", ["sass"]);
+    gulp.watch("src/sections/*.md", ["markdown"]);
+});

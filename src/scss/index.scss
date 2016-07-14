@@ -1,1 +1,63 @@
-/** */
+/**
+ * Main Styles
+ * (c) PkmnGo.Tips
+ */
+
+
+
+/* ---------------------------------------- *\
+ * Reset
+\* ---------------------------------------- */
+
+* {
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	outline:  none;
+}
+
+
+
+/* ---------------------------------------- *\
+ * Nav
+\* ---------------------------------------- */
+
+nav {
+	float: left;
+	width: 25%;
+	background: #769;
+	color: #fff;
+	padding: 30px;
+
+	ul {
+		list-style-type: none;
+
+		li {
+			margin-bottom: 40px;
+			font-weight: bold;
+
+			ul li {
+				font-weight: normal;
+				margin-bottom: 15px;
+				margin-left: 20px;
+
+				&:first-child {
+					margin-top: 15px;
+				}
+			}
+		}
+	}
+}
+
+
+
+/* ---------------------------------------- *\
+ * Main
+\* ---------------------------------------- */
+
+main {
+	float: left;
+	width: 75%;
+}
