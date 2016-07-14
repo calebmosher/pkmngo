@@ -1,6 +1,6 @@
 <?
-function include_section(sectionName) {
-	return include 'dist/sections/' + sectionName + '.php';
+function include_section($sectionName) {
+	return (include 'dist/sections/' . $sectionName . '.php');
 }
 ?>
 
