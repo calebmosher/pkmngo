@@ -1,3 +1,9 @@
+<?
+function include_section(sectionName) {
+	return include 'dist/sections/' + sectionName + '.php';
+}
+?>
+
 <!DOCTYPE html>
 
 <html>
@@ -10,17 +16,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
 <link rel="icon" href="/assets/favicon.png" />
-<link rel="stylesheet" href="/built/main.built.css" />
+<link rel="stylesheet" href="dist/built/main.built.css" />
 
 </head>
 
 <body>
 
-<?
-	echo "asdf";
-?>
+<? include_section('getting-started') ?>
 
-<script src="/built/main.built.js"></script>
+<script src="dist/built/main.built.js"></script>
 
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

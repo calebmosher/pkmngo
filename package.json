@@ -9,9 +9,14 @@
   "author": "Cal Mosher",
   "license": "ISC",
   "devDependencies": {
+    "browserify": "^13.0.1",
     "gulp": "^3.9.1",
     "gulp-markdown": "^1.2.0",
+    "gulp-notify": "^2.2.0",
     "gulp-rename": "^1.2.2",
-    "marked": "^0.3.5"
+    "gulp-sass": "^2.3.2",
+    "jquery": "^1.11.3",
+    "marked": "^0.3.5",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
