@@ -17,7 +17,7 @@ function include_section($sectionName, $isNav = false) {
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
-<link rel="icon" href="/assets/favicon.png" />
+<link rel="icon" href="/assets/pokeball-medium-dark.png" />
 <link rel="stylesheet" href="dist/built/main.built.css" />
 
 </head>
@@ -43,7 +43,7 @@ function include_section($sectionName, $isNav = false) {
 			}
 		?>
 
-		<footer>Copyright &copy; 2016 <a href="http://pkmngo.tips">PkmnGo.Tips</a></footer>
+		<footer>&copy; 2016 <a href="http://pkmngo.tips">PkmnGo.Tips</a></footer>
 	</main>
 
 	<script src="dist/built/main.built.js"></script>

@@ -13,7 +13,7 @@ The Google login should be the easiest way, but if you're on iOS and [aren't com
 
 Next, get yourself ready to be The Very Best by choosing a unique trainer name and selecting a cool trainer outfit from a (very limited) set of choices.
 
-[How do I join a Pokemon Go team?](#how-do-i) Head to the [Gyms]() section to find out!
+> [How do I join a Pokemon Go team?](#how-do-i) Head to the [Gyms]() section to find out!
 
 ### Choose Your Starter
 
@@ -26,9 +26,10 @@ Now that your trainer is adventure-ready, it's time to choose a starter Pokemon.
 
 To get one of the first three, after you're done talking to Professor Willow, you'll see three Pokemon standing near you on the map. Tap the one you want and your first Pokemon encounter will start.
 
-[How do I capture Pokemon?](#how-do-i) Head to the [How to Play Basics]() section to find out!
+To get Pikachu, according to [XX at YY](), ignore the first three Pokemon you see and walk away. After not selecting one for long enough, eventually Pokemon Go will get the hint and show you a Pikachu!
 
-[How do I get Pikachu?](#how-do-i) According to [XX at YY](), ignore the first three Pokemon you see and walk away. After not selecting one for long enough, eventually Pokemon Go will get the hint and show you a Pikachu!
+> [How do I capture Pokemon?](#how-do-i) Head to the [How to Play Basics]() section to find out!
+
 
 ### Settings
 
