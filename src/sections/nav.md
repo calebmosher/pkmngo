@@ -4,16 +4,16 @@
   * [Choose Your Trainer](#choose-your-trainer)
   * [Choose Your Starter](#choose-your-starter)
   * [Settings](#settings)
-* How to Play Basics
-  * Find Pokemon
-  * Catch Pokemon
-  * Pokestops
-* Gyms
-  * Choose a team
-  * Battle other Pokemon
-  * Control a Gym
-* Advanced Gameplay
-  * Hatch an Egg
-  * Level up your trainer
-  * Raise your Pokemon's CP
-  * Win gym battles
+* [How to Play Basics](#how-to-play-basics)
+  * [Find Pokemon](#find-pokemon)
+  * [Catch Pokemon](#catch-pokemon)
+  * [Pokestops](#pokestops)
+* [Pokemon Gyms](#pokemon-gyms)
+  * [Choose a team](#choose-a-team)
+  * [Battle other Pokemon](#battle-other-pokemon)
+  * [Control a Gym](#control-a-gym)
+* [Advanced Gameplay](#advanced-gameplay)
+  * [Hatch an Egg](#hatch-an-egg)
+  * [Level up your trainer](#level-up-your-trainer)
+  * [Raise your Pokemon's CP](#raise-your-pokemon-s-cp)
+  * [Win gym battles](#win-gym-battles)

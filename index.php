@@ -35,8 +35,11 @@ function include_section($sectionName, $isNav = false) {
 
 		<?
 			$all_sections = array(
-				'what-is',
-				'getting-started'
+				'what-is-pokemon-go',
+				'getting-started',
+				'how-to-play-basics',
+				'pokemon-gyms',
+				'advanced-gameplay'
 			);
 			foreach ($all_sections as $section) {
 				include_section($section);
