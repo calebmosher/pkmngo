@@ -1,6 +1,6 @@
 <?
 function include_section($sectionName, $isNav = false) {
-	echo $isNav ? '' : '<section id="' . $sectionName . '">';
+	echo $isNav ? '' : '<section id="section-' . $sectionName . '">';
 	include 'dist/sections/' . $sectionName . '.php';
 	echo $isNav ? '' : '</section>';
 }

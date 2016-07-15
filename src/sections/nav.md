@@ -1,9 +1,9 @@
-* What is Pokemon Go?
-* Getting Started
-  * Signing Up
-  * Choose Your Trainer
-  * Choose Your Starter
-  * Settings
+* [What is Pokemon Go?](#what-is-pokemon-go-)
+* [Getting Started](#getting-started)
+  * [Signing Up](#signing-up)
+  * [Choose Your Trainer](#choose-your-trainer)
+  * [Choose Your Starter](#choose-your-starter)
+  * [Settings](#settings)
 * How to Play Basics
   * Find Pokemon
   * Catch Pokemon
