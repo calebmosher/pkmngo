@@ -14,5 +14,6 @@
   * Control a Gym
 * Advanced Gameplay
   * Hatch an Egg
-  * Earn XP
+  * Level up your trainer
   * Raise your Pokemon's CP
+  * Win gym battles

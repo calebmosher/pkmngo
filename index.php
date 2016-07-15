@@ -35,17 +35,16 @@ function include_section($sectionName, $isNav = false) {
 
 		<?
 			$all_sections = array(
+				'what-is',
 				'getting-started'
 			);
 			foreach ($all_sections as $section) {
 				include_section($section);
 			}
 		?>
-	</main>
 
-	<footer>
-		Copyright &copy; 2016 PkmnGo.Tips
-	</footer>
+		<footer>Copyright &copy; 2016 <a href="http://pkmngo.tips">PkmnGo.Tips</a></footer>
+	</main>
 
 	<script src="dist/built/main.built.js"></script>
 
@@ -57,7 +56,6 @@ function include_section($sectionName, $isNav = false) {
 	ga('create', 'UA-80663844-1', 'auto');
 	ga('send', 'pageview');
 	</script>
-
 </body>
 
 </html>
