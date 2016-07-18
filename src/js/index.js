@@ -27,6 +27,28 @@ $("a[href^='#']").click(function(e) {
     });
 });
 
+$("nav .menu").click(function(e) {
+	var $ul = $("nav > ul");
+
+	if ($ul.css("display") === "none") {
+		$ul.slideDown(200);
+		return;
+	}
+	$ul.slideUp(200);
+});
+$("nav > ul > li > a").click(function(e) {
+	e.preventDefault();
+
+	var $ul = $(e.target).parents("ul");
+
+	if ($ul.css("overflow") === "visible") {
+		$ul.slideUp(200);
+		window.setTimeout(function() {
+			$("html, body").animate({scrollTop: $(document).scrollTop() - 60}, 0);
+		}, 600);
+	}
+});
+
 
 
 /* ---------------------------------------- *\

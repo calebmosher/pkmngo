@@ -30,14 +30,14 @@ In addition to these, you can also gain XP in a myriad of ways, such as:
 
 | Action | XP |
 | :-- | --: |
-| Nice throw | 10 XP |
-| Great throw | 50 XP |
-| Excellent throw | 100 XP |
-| Curveball throw | 10 XP |
-| Catch an unregistered Pokemon | 500 XP |
-| Hatch 2km egg | 200 XP |
-| Hatch 5km egg | 500 XP |
-| Hatch 10km egg | 1000 XP |
+| Nice throw | 10&nbsp;XP |
+| Great throw | 50&nbsp;XP |
+| Excellent throw | 100&nbsp;XP |
+| Curveball throw | 10&nbsp;XP |
+| Catch an unregistered Pokemon | 500&nbsp;XP |
+| Hatch 2km egg | 200&nbsp;XP |
+| Hatch 5km egg | 500&nbsp;XP |
+| Hatch 10km egg | 1000&nbsp;XP |
 | Gym Battle/Train | Varies |
 
 Beyond the aforementioned, items called **Lucky Eggs** can also be utilized. Contrary to their name, these items do not hatch anything, but instead will double *any* experience earned for the next 30 minutes after used. They're pretty rare to receive in-game, but can be bought at the Store for 80 coins (~$0.80).

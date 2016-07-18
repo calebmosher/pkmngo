@@ -24,6 +24,11 @@ function include_section($sectionName, $isNav = false) {
 
 <body>
 	<nav>
+		<div class="nav-mobile">
+			<div class="title">PkmnGo.Tips</div>
+			<div class="menu"></div>
+		</div>
+
 		<? include_section('nav', true); ?>
 	</nav>
 
