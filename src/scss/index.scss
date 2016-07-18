@@ -53,6 +53,7 @@ nav {
 	top: 0;
 	left: 0;
 	overflow: scroll;
+	box-shadow: 0 0 14px -2px #000;
 
 	@include mq($md) {
 		height: 40px;
@@ -67,20 +68,24 @@ nav {
 			text-decoration: underline;
 		}
 	}
-	ul {
+	& > ul {
 		list-style-type: none;
 
-		li {
+		& > li {
 			margin-bottom: 20px;
 			font-weight: bold;
 
-			ul li {
-				font-weight: normal;
-				margin-bottom: 10px;
-				margin-left: 10px;
+			& > ul {
+				list-style-type: none;
 
-				&:first-child {
-					margin-top: 10px;
+				li {
+					font-weight: normal;
+					margin-bottom: 10px;
+					margin-left: 10px;
+
+					&:first-child {
+						margin-top: 10px;
+					}
 				}
 			}
 		}
@@ -180,19 +185,14 @@ main {
 				font-weight: 400;
 			}
 
+			p {
+				line-height: 1.5;
+			}
 			p:last-child {
 				margin-bottom: 0;
 			}
-			a[href="#how-do-i"] {
-				display: block;
-				color: #000;
-				font-weight: 500;
+			strong {
 				margin-bottom: 10px;
-				cursor: default;
-
-				&:hover {
-					text-decoration: none;
-				}
 			}
 		}
 		a {

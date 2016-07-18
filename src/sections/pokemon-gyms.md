@@ -2,12 +2,44 @@
 
 ### Choose a Team
 
-Suspendisse rutrum libero lacus, eget vehicula turpis euismod sit amet. Vestibulum mollis id sem et convallis. Cras rhoncus quis neque eu lacinia. Nullam ullamcorper arcu volutpat, finibus erat sit amet, imperdiet nisi. Suspendisse a enim vulputate, tincidunt massa ut, semper ligula. Mauris scelerisque, est a feugiat facilisis, mi sem fermentum arcu, at elementum tortor magna vel quam. Cras dignissim tempor tincidunt. Cras quis orci eu nulla bibendum pretium.
+Once you [level up your Trainer](#level-up-your-trainer) to level 5, you have the option to choose a team. Select any gym (doesn't even have to be close to you) to be prompted to make your selection. Which team you choose has no bearing on how you play the game other than how you interact with gyms. You have three choices:
+
+* Team Instinct (yellow)
+* Team Mystic (blue)
+* Team Valor (red)
+
+**Team Instinct** is lead by Spark, their color is yellow, and their mascot is the legendary bird Zapdos. Spark believes that Pokemon have innate talents, and that success in battle is best achieved by trusting your—yep, you got it—instincts. As of now, team Instinct has the fewest members.
+
+**Team Mystic** is lead by Blanche, their color is blue, and their mascot is the legendary bird Articuno. Blanche believes in reason and intellect over faith, and that success in battle is best achieved by using your wisdom. As of now, team Mystic is clearly the most popular as it has the most members of the three.
+
+**Team Valor** is lead by Candela, their color is red, and their mascot is the legendary bird Moltres. Candela believes power is what is most important in the world, and that success in battle is best achieved by overcoming your opponent with passion and strength.
+
+Now that you've chosen a team, you have access to any Pokemon Gym nearby. At Gyms controlled by your team, you can battle your teammates stationed Pokemon to raise that Gym's prestige points and earn XP. At rival-controlled Gyms, you can battle opponent team's Pokemon to lower their Gym prestige and try to take over the Gym itself.
+
+> **How do I control a Pokemon Gym?**  
+See the [Control a Gym](#control-a-gym) section to find out!
 
 ### Battle Other Pokemon
 
-In non orci sed enim porta volutpat nec in orci. Praesent tincidunt metus vel leo pretium convallis tincidunt nec massa. Phasellus interdum nec dolor id pharetra. Suspendisse commodo magna ac lobortis interdum. Nullam in eleifend eros, non tincidunt turpis. Proin nec bibendum metus. Vestibulum fringilla, nisl at convallis congue, purus lorem ultrices ipsum, ut lobortis leo felis tristique nisi. Suspendisse elementum auctor enim tristique placerat.
+You've declared a team, and you're ready to battle—here's how.
+
+Every Pokemon has three moves: a standard attack, special attack, and dodge. You can see any Pokemon's attacks in your Pokemon list.
+
+To use your **standard attack** in battle, simply tap the screen. That's it. You can use your standard attack as fast as the game will allow, and as many times as you want.
+
+To use your **special attack**, you'll have to wait until one of the blue special bars is filled up, then press and hold to unleash it. To build the special meter, use standard attacks. Different special moves will have different size special bars to build, so pay attention to how much special you've built up, or you may be wasting your time trying to unleash a special move that you can't use yet.
+
+To **dodge**, swipe either left or right. Your Pokemon will move in an outer circle around the opposing Pokemon. But be careful, as after you dodge, the other Pokemon will turn to face you again.
+
+> **How do I win Pokemon battles?**  
+See the [Win Gym Battles](#win-gym-battles) section to find out!
 
 ### Control a Gym
 
-Nunc vestibulum et orci non euismod. Vestibulum in ligula et dui ullamcorper accumsan. Maecenas sit amet est nec nisi viverra euismod. Nunc mi urna, sollicitudin non dignissim porttitor, porta ac leo. Quisque tortor nisl, viverra eu lorem sed, placerat mattis augue. Phasellus finibus, ante ac accumsan tincidunt, lacus mi ullamcorper lorem, in congue risus nulla ut arcu. Nunc imperdiet mauris in nunc ullamcorper, quis tincidunt nibh elementum. Mauris faucibus lacinia aliquam. Suspendisse enim nunc, imperdiet non mi elementum, malesuada posuere orci. Phasellus vel velit sed tortor efficitur fermentum.
+Depending on what team controls the Gym, you will interact with a nearby gym in one of two ways.
+
+At **Rival Gyms**, you will go into battle with six of your best Pokemon and face off against all of the rival Pokemon stationed there in a row. Starting with the lowest-powered and ending with the highest-powered, fight your way to the top to decrease that Gym's prestige points and earn XP. Once you've brought their prestige to zero, you'll have the option to station one of your own Pokemon there and claim the Gym for yourself.
+
+At **Team Gyms**, you will take only one of your Pokemon into battle against all of your Team's friendly Pokemon stationed there in a row. By beating them, you will earn XP, as well as raise the prestige of that Gym for your team. Note that when you lose to your own team's Pokemon, your own Pokemon will be left with 1 HP instead of fainted.
+
+As the prestige of a Gym is raised, the Gym level will go up. Higher level Gyms will be able to have more Pokemon stationed at them. To best control a Gym, station your best and most powerful Pokemon there to resist challenges from rival teams.
