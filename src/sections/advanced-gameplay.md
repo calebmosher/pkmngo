@@ -2,13 +2,13 @@
 
 ### Hatch an Egg
 
-Ready to walk? Good, because that's the only way to hatch Pokemon eggs.
+Ready to walk? You better be, because there's no other way to hatch Pokemon eggs.
 
 Eggs can only be received from [Pokestops](#pokestops), and you can only hold nine eggs at a time. They are not that rare, but you'll only receive new ones once you have an open spot for one out of your nine spots. Meaning, you have to hatch eggs to receive more eggs.
 
 Eggs come in three varieties: 2km, 5km, and 10km. As you can guess, these are the walking distances required to hatch that particular egg. To begin counting your steps toward that number however, you'll need to put an egg into an Incubator.
 
-**Incubators** are pretty hard to come by. You'll receive one special orange Incubator at the start of the game that can be used an infinite number of times, and you'll also receive another one early on with limited usage. All other Incubators besides the special orange one have limited usage, and will break after 3 uses. The easiest way to get more Incubators is to buy them in the Store for 150 coins (~$1.50).
+**Incubators** are pretty hard to come by. You'll receive one special orange Incubator at the start of the game that can be used an infinite number of times, and you'll also receive another one early on with limited usage. All Incubators besides the special orange one have limited usage, and will break after 3 uses. The easiest way to get more Incubators is to buy them in the Store for 150 coins (~$1.50).
 
 *Note: To see which Pokemon are hatched by which eggs, [see this list](http://i.imgur.com/9HdbtXA.jpg).*
 
@@ -40,11 +40,11 @@ In addition to these, you can also gain XP in a myriad of ways, such as:
 | Hatch 10km egg | 1000 XP |
 | Gym Battle/Train | Varies |
 
-Beyond the aforementioned, items called **Lucky Eggs** can also be utilized. Contrary to their name, these items do not hatch anything, but instead will double *any* experience earned for the next 30 minutes after used. They're pretty rare to find at Pokestops, but can be bought at the Store for 80 coins (~$0.80).
+Beyond the aforementioned, items called **Lucky Eggs** can also be utilized. Contrary to their name, these items do not hatch anything, but instead will double *any* experience earned for the next 30 minutes after used. They're pretty rare to receive in-game, but can be bought at the Store for 80 coins (~$0.80).
 
 If you're looking for the **most effective way to earn XP quickly**, Lucky Eggs will be your best bet. Save up several low-cost evolution Pokemon like Pidgeys (12), Weedles (12), and Caterpies (12), or even Rattatas (25), Eevees (25), and Zubats (50) if you just have too many. Then, use a Lucky Egg and evolve as many as you can for the next 30 minutes. Pokemon evolutions give 500 XP, so 1000 XP each with the Lucky Egg.
 
-*Note: This XP strategy will only work once you've spent some time in the game. You'll need to have a lot of candy for any particular Pokemon to evolve many of them. If you're trying to plan out a maximum XP session, feel free to use the [Pidgey Calculator](http://pidgeycalc.com) created by Reddit user u/bchn.*
+*Note: This XP strategy will only work after you've spent some time in the game. You'll need to have a lot of candy for any particular Pokemon to evolve many of them. If you're trying to plan out a maximum XP session, feel free to use the [Pidgey Calculator](http://pidgeycalc.com) created by Reddit user u/bchn.*
 
 ### Raise your Pokemon's CP
 
@@ -88,31 +88,34 @@ The following is a comprehensive list of how much CP different fully-evolved Pok
 | Butterfree | 18 |
 | Dugtrio, Farfetch'd* | 16 |
 | Ditto*, Onix | 12 |
-| Chansey (has high hp) | 9.5 |
+| Chansey | 9.5 |
 
 _Note: An asterisk (*) indicates theoretical (unconfirmed) data. For more information on the previous data, see the following Reddit posts:_
 
 * *[Pokemon CP Tier List](https://www.reddit.com/r/TheSilphRoad/comments/4se870/pokemon_cp_tier_list/)*
 * *[Pokemon CP Formula](https://www.reddit.com/r/TheSilphRoad/comments/4t3bmk/pokemon_cp_formula_approximate/)*
-* *[Stardust Cost](https://www.reddit.com/r/TheSilphRoad/comments/4t3bmk/pokemon_cp_formula_approximate/)*
+* *[Stardust Cost](https://www.reddit.com/r/TheSilphRoad/comments/4sa4p5/stardust_costs_increase_every_4_power_ups/)*
 
 ### Win Gym Battles
 
 You've leveled up your Trainer, you've powered up your Pokemon, but you just can't seem to win Pokemon Gym battles? Don't worry, once you learn the right strategies, you'll be able to hang with the best of them.
 
-Most newbies go into Pokemon battles with one strategy: Brute Force. Tapping the screen as fast as possible, you try to overwhelm the enemy with your impressive CP and hope your opponent runs out of health before you. For the most part, if you're a high enough level, this might work. However, there is a bit more nuance to consider as well.
+Most newbies go into Pokemon battles with one strategy: Brute Force. Tapping the screen as fast as possible, you try to overwhelm the enemy with your impressive CP and hope your opponent runs out of health before you. For the most part, if you're a high enough level, this might work. However, there is a bit more nuance as well.
 
 There are two major points to consider in Pokemon battles: Pokemon type strength/weaknesses, and timing attacks/dodges.
 
 **Pokemon types** are probably the most important factors to consider when entering a battle. This may seem like a no-brainer to Pokemon veterans, but this may be news to rookie Trainers. Every Pokemon has a type (or two), and every attack has a type. The type of *attack* used on a defending Pokemon can alter the damage done:
 
-* Super effective attack does 2x damage
-* Note very effective attack does 0.5x damage
-* No effect attack does 0 damage
+* Super effective attack does 1.25x damage
+* Not very effective attack does 0.8x damage
 
-It's important to note that the type of the *attack* is the one to be considered against the defending Pokemon's type. E.g. Growlithe itself is a FIRE-type Pokemon, so you may think he's a perfect match for that STEEL-type Magnemite. However, one of Growlithe's standard moves, Bite, is a DARK-type attack, and DARK against STEEL is "Not very effective", meaning it only deals 0.5 damage.
+*Note: The type of the __attack__ is the one to be considered against the defending Pokemon's type.*
 
-So grab yourself [a handy Pokemon type chart](https://img.pokemondb.net/images/typechart-gen2345.png), and study up.
+In addition to this, there is a **Same-Type Attack Bonus** (STAB) in Pokemon Go. This is when a Pokemon uses an attack that has a matching type to one of its own types, e.g. the GRASS-type Bulbasaur using the GRASS-type attack Vine Whip. The STAB in Pokemon Go is 1.25x damage.
+
+Also note that the above is different than any other Pokemon game previous. Super effective has been reduced to 1.25x, Not very effective has been upped to only 0.8x, and No effect has been removed entirely (replaced by Not very effective). The STAB has also been reduced in this game to only 1.25x damage boost.
+
+So grab yourself [a handy Pokemon type chart](https://i.redd.it/oy7lrixl8r9x.png), and study up. Most charts (including this one) show the attack type on the left axis and the defending Pokemon's type on the top axis. If you'd like to find or make your own chart, just know that the types match up with Generation&nbsp;VI, and remember the multiplier changes outlined above.
 
 **Battle Timing** is also important to master if you want to win lots of battles without losing lots of HP. To successfully dodge an opponent's attack, look for the yellow flash at the bottom of the screen and quickly swipe left or right. The flash will always come right before the attack, so always wait for the flash before swiping to dodge.
 

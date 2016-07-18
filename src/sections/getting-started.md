@@ -27,7 +27,7 @@ Now that your trainer is adventure-ready, it's time to choose a starter Pokemon.
 
 To get one of the first three, after you're done talking to Professor Willow, you'll see three Pokemon standing near you on the map. Tap the one you want and your first Pokemon encounter will start.
 
-To get Pikachu, ignore the first three Pokemon you see and walk away. After not selecting one for long enough, eventually Pokemon Go will get the hint and show you a Pikachu!
+**To get Pikachu**, ignore the first three Pokemon you see and walk away. After not selecting one for long enough, eventually Pokemon Go will get the hint and show you a Pikachu!
 
 > **How do I capture Pokemon?**  
 See the [Catch Pokemon](#catch-pokemon) section to find out!

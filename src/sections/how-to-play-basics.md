@@ -34,7 +34,7 @@ You've tracked down that Pidgey, and now you're ready to catch it. Once a Pokemo
 
 This is pretty straightforward, but there are some tricks to know on how to catch a Pokemon. The basics are to grab the Pokeball at the bottom of your screen and swipe up to throw it at the Pokemon. You want the Pokeball to land inside the white ring around the Pokemon to get it inside the ball.
 
-There is also a **colored inner ring** that changes in size. Its color can range from bright green to dark orange. The more green the color, the easier the Pokemon is to catch. The more orange the color, the harder the encounter will be. To increase your chances, you can do three things:
+There is also a **colored inner ring** that changes in size. Its color can range from bright green to dark orange. The more green the color, the easier the Pokemon is to catch. The more orange the color, the harder the encounter will be. To increase your chances of capture, you can do three things:
 
 * Try to have your throw land when the inner ring is at its smallest
 * Feed the Pokemon berries (such as Razz Berry)
@@ -47,6 +47,8 @@ Also, if you get the Pokeball to land inside the smaller circle itself, you'll g
 * "Excellent!" (circle is approx. 33% or smaller) will earn you 100 XP
 
 *Note: These messages do not help your chances of catching the Pokemon, only give you more XP if/when you do catch it.*
+
+You can also grab the Pokeball and drag it around in a spinning motion before throwing it. Throwing this "Curve Ball" and capturing a Pokemon with it will earn you a cool 10 XP.
 
 > **How do I battle Pokemon?**  
 See the [Battle Other Pokemon](#battle-other-pokemon) section to find out!
