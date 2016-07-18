@@ -5,9 +5,9 @@
 To sign up for Pokemon Go, you have two options:
 
 * Google Login
-* Pokemon Club Login
+* Pokemon Trainer Club Login
 
-The Google login should be the easiest way, but if you're on iOS and [aren't comfortable with the app permissions](http://arstechnica.com/gaming/2016/07/pokemon-go-on-ios-gets-full-access-to-your-google-account/) involved—you can always [create a free Pokemon Club account]().
+The Google login should be the easiest way, but if you're on iOS and [aren't comfortable with the app permissions](http://arstechnica.com/gaming/2016/07/pokemon-go-on-ios-gets-full-access-to-your-google-account/) involved—you can always [create a free Pokemon Trainer Club account](https://club.pokemon.com/us/pokemon-trainer-club/sign-up/).
 
 ### Choose Your Trainer
 
