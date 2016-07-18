@@ -89,11 +89,14 @@ nav {
 		.title {
 			float: left;
 			width: 80%;
-			font-size: 22px;
+			font-size: 26px;
 			font-weight: 600;
 			color: #fff;
 			font-family: Georgia, "Helvetica Neue", Helvetica, Arial, sans-serif;
 			line-height: 40px;
+			background: url("/assets/pokeball-white.png") no-repeat center left;
+			background-size: 26px auto;
+			padding-left: 36px;
 		}
 		.menu {
 			float: left;
@@ -171,8 +174,17 @@ main {
 		border-bottom: 1px solid #ddd;
 		margin-bottom: 75px;
 
+		@include mq($md) {
+			font-size: 30px;
+			text-align: center;
+		}
+
 		span {
 			font-size: 20px;
+
+			@include mq($md) {
+				font-size: 18px;
+			}
 		}
 	}
 
@@ -189,6 +201,7 @@ main {
 
 			@include mq($md) {
 				margin-left: 0;
+				font-size: 24px;
 			}
 		}
 		h3 {
