@@ -14,6 +14,6 @@
   * [Control a Gym](#control-a-gym)
 * [Advanced Gameplay](#advanced-gameplay)
   * [Hatch an Egg](#hatch-an-egg)
-  * [Level Up Your trainer](#level-up-your-trainer)
+  * [Level Up Your Trainer](#level-up-your-trainer)
   * [Raise Your Pokemon's CP](#raise-your-pokemon-s-cp)
   * [Win Gym Battles](#win-gym-battles)

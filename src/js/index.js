@@ -14,6 +14,7 @@ var $ = require("jquery");
 $("a[href='#how-do-i']").click(function(e) {
 	e.preventDefault();
 });
+
 $("a[href^='#']").click(function(e) {
 	e.preventDefault();
 
@@ -24,4 +25,19 @@ $("a[href^='#']").click(function(e) {
     }, 600, function() {
     	window.location.hash = newSection;
     });
+});
+
+
+
+/* ---------------------------------------- *\
+ * Modifiers
+\* ---------------------------------------- */
+
+$("a[href^='http']").prop("target", "_blank");
+
+$("table tbody").each(function(i, tbody) {
+	$(tbody).find("tr").each(function(i, tr) {
+		if (i % 2) return;
+		$(tr).addClass("alt-row");
+	});
 });

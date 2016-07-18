@@ -6,7 +6,7 @@
 
 
 /* ---------------------------------------- *\
- * Reset
+ * General
 \* ---------------------------------------- */
 
 * {
@@ -16,7 +16,9 @@
 	padding: 0;
 	box-sizing: border-box;
 	text-decoration: none;
-	outline:  none;
+	outline: none;
+	border: none;
+	border-spacing: 0;
 }
 h1, h2 {
 	font-family: Georgia, Times, serif;
@@ -149,7 +151,8 @@ main {
 		}
 		p,
 		ul,
-		blockquote {
+		blockquote,
+		table {
 			margin-bottom: 15px;
 			font-size: 16px;
 			line-height: 1.3;
@@ -197,6 +200,7 @@ main {
 		}
 		a {
 			color: #49e;
+			font-weight: inherit;
 
 			&:hover {
 				text-decoration: underline;
@@ -204,6 +208,23 @@ main {
 		}
 		strong {
 			font-weight: 500;
+		}
+		table {
+			max-width: 400px;
+			width: 100%;
+			margin: 0 auto 30px;
+
+			th {
+				font-weight: 500;
+				padding: 10px 5px 10px;
+				border-bottom: 1px solid #ccc;
+			}
+			tr.alt-row {
+				background: #eee;
+			}
+			td {
+				padding: 5px;
+			}
 		}
 	}
 	footer {

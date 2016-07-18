@@ -31,6 +31,8 @@ To use your **special attack**, you'll have to wait until one of the blue specia
 
 To **dodge**, swipe either left or right. Your Pokemon will move in an outer circle around the opposing Pokemon. But be careful, as after you dodge, the other Pokemon will turn to face you again.
 
+As a Trainer, you can also swap out your current Pokemon for another in your battle party at any time. This is useful if you are going for [type advantages](#win-gym-battles) to help win battles easier.
+
 > **How do I win Pokemon battles?**  
 See the [Win Gym Battles](#win-gym-battles) section to find out!
 
@@ -43,3 +45,5 @@ At **Rival Gyms**, you will go into battle with six of your best Pokemon and fac
 At **Team Gyms**, you will take only one of your Pokemon into battle against all of your Team's friendly Pokemon stationed there in a row. By beating them, you will earn XP, as well as raise the prestige of that Gym for your team. Note that when you lose to your own team's Pokemon, your own Pokemon will be left with 1 HP instead of fainted.
 
 As the prestige of a Gym is raised, the Gym level will go up. Higher level Gyms will be able to have more Pokemon stationed at them. To best control a Gym, station your best and most powerful Pokemon there to resist challenges from rival teams.
+
+Stationing a Pokemon at a Gym gives you, yes, awesome bragging rights. But it also gives you **10 coins and 500 [Stardust](#raise-your-pokemon-s-cp) per stationed defender** per 24-hour period. To redeem your reward, go to the Store while you have Pokemon stationed in a gym and tap the shield icon at the top right.
