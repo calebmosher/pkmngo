@@ -42,7 +42,7 @@ $("nav > ul > li > a").click(function(e) {
 
 	var $ul = $(e.target).parents("ul");
 
-	if ($ul.css("overflow") === "visible") {
+	if ($("nav").css("overflow") === "visible") {
 		$ul.slideUp(200);
 		window.setTimeout(function() {
 			$("html, body").animate({scrollTop: $(document).scrollTop() - 60}, 300);
