@@ -56,7 +56,7 @@ If you're looking for the **most effective way to earn XP quickly**, Lucky Eggs 
 
 Every Pokemon has a Combat Power (CP) level. The only way to "level" your Pokemon is to raise its CP level.
 
-The higher your Trainer's level, the higher level CP wild Pokemon will have. Also, your Trainer's level will determine the CP cap of your captured Pokemon. This cap can be observed by the white arc above the Pokemon in your Pokemon list. A Pokemon's CP cannot be raised past its cap.
+The higher your Trainer's level, the higher level CP wild Pokemon will have. Also, your Trainer's level will determine the maximum CP cap of your captured Pokemon. This cap can be observed by the white arc above the Pokemon in your Pokemon list. A Pokemon's CP cannot be raised past its cap.
 
 ![Pokemon have a maximum level CP based on their Trainer's level](/assets/pokemon-cp-cap.png)
 
@@ -104,6 +104,8 @@ _Note: An asterisk (*) indicates theoretical (unconfirmed) data. For more inform
 * *[Pokemon CP Formula](https://www.reddit.com/r/TheSilphRoad/comments/4t3bmk/pokemon_cp_formula_approximate/)*
 * *[Stardust Cost](https://www.reddit.com/r/TheSilphRoad/comments/4sa4p5/stardust_costs_increase_every_4_power_ups/)*
 
+It's also important to note that a fully evolved Pokemon will level faster and higher than any of its pre-evolved forms. So if your interested in leveling up one of your Pokemon, feel free to evolve it sooner vs later.
+
 ### Win Gym Battles
 
 You've leveled up your Trainer, you've powered up your Pokemon, but you just can't seem to win Pokemon Gym battles? Don't worry, once you learn the right strategies, you'll be able to hang with the best of them.
@@ -121,7 +123,7 @@ There are two major points to consider in Pokemon battles: Pokemon type strength
 
 In addition to this, there is a **Same-Type Attack Bonus** (STAB) in Pokemon Go. This is when a Pokemon uses an attack that has a matching type to one of its own types, e.g. the GRASS-type Bulbasaur using the GRASS-type attack Vine Whip. The STAB in Pokemon Go is 1.25x damage.
 
-Also note that the above is different than any other Pokemon game previous. Super effective has been reduced to 1.25x, Not very effective has been upped to only 0.8x, and No effect has been removed entirely (replaced by Not very effective). The STAB has also been reduced in this game to only 1.25x damage boost.
+Also note that the above is different than any other Pokemon game previous. Super effective has been reduced to 1.25x, Not very effective has been upped to 0.8x, and No effect has been removed entirely (replaced by Not very effective). The STAB has also been reduced in this game to only 1.25x damage boost.
 
 So grab yourself [a handy Pokemon type chart](https://i.redd.it/oy7lrixl8r9x.png), and study up. Most charts (including this one) show the attack type on the left axis and the defending Pokemon's type on the top axis. If you'd like to find or make your own chart, just know that the types match up with Generation&nbsp;VI, and remember the multiplier changes outlined above.
 

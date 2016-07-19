@@ -18,12 +18,19 @@ $("a[href='#how-do-i']").click(function(e) {
 $("a[href^='#']").click(function(e) {
 	e.preventDefault();
 
-	var newSection = e.target.getAttribute("href");
+	var newSection = e.target.getAttribute("href"),
+		$ul = $(e.target).parents("ul"),
+		isMobile = $("nav").css("overflow") === "visible"
+
+	if (isMobile) {
+		$ul.slideUp(200);
+	}
 
 	$("html, body").animate({
         scrollTop: $(newSection).offset().top
     }, 600, function() {
     	window.location.hash = newSection;
+    	isMobile && $("html, body").animate({scrollTop: $(document).scrollTop() - 60}, 300);
     });
 });
 
@@ -35,19 +42,6 @@ $("nav .menu").click(function(e) {
 		return;
 	}
 	$ul.slideUp(200);
-});
-
-$("nav > ul > li > a").click(function(e) {
-	e.preventDefault();
-
-	var $ul = $(e.target).parents("ul");
-
-	if ($("nav").css("overflow") === "visible") {
-		$ul.slideUp(200);
-		window.setTimeout(function() {
-			$("html, body").animate({scrollTop: $(document).scrollTop() - 60}, 300);
-		}, 600);
-	}
 });
 
 

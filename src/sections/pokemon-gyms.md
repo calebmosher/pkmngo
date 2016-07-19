@@ -16,7 +16,7 @@ Once you [level up your Trainer](#level-up-your-trainer) to level 5, you have th
 
 **Team Valor** is lead by Candela, their color is red, and their legendary mascot is Moltres. Candela believes power is what is most important in the world, and that success in battle is best achieved by overcoming your opponent with passion and strength.
 
-Now that you've chosen a team, you have access to any Pokemon Gym nearby. At Gyms controlled by your team, you can battle your teammates stationed Pokemon to raise that Gym's prestige points and earn XP. At rival-controlled Gyms, you can battle opponent team's Pokemon to lower their Gym prestige and try to take over the Gym itself.
+Now that you've chosen a team, you have access to any Pokemon Gym nearby. At Gyms controlled by your team, you can battle your teammates' stationed Pokemon to raise that Gym's prestige points and earn XP. At rival-controlled Gyms, you can battle opponent teams' Pokemon to lower their Gym prestige and try to take over the Gym itself.
 
 > **How do I control a Pokemon Gym?**  
 See the [Control a Gym](#control-a-gym) section to find out!
@@ -35,7 +35,7 @@ To use your **special attack**, you'll have to wait until one of the blue specia
 
 To **dodge**, swipe either left or right. Your Pokemon will move in an outer circle around the opposing Pokemon. But be careful, as after you dodge, the other Pokemon will turn to face you again.
 
-As a Trainer, you can also swap out your current Pokemon for another in your battle party at any time using the button in the lower-left corner. This is useful if you are planning to utilize [type advantages](#win-gym-battles) to win battles easier.
+As a Trainer, you can also swap out your current Pokemon for another in your battle party at any time using the button in the lower-right corner. This is useful if you are planning to utilize [type advantages](#win-gym-battles) to win battles easier.
 
 > **How do I win Pokemon battles?**  
 See the [Win Gym Battles](#win-gym-battles) section to find out!
@@ -52,4 +52,4 @@ At **Team Gyms**, you will take only one of your Pokemon into battle against all
 
 As the prestige of a Gym is raised, the Gym level will go up. Higher level Gyms will be able to have more Pokemon defenders, as a Gym's numeric level corresponds directly with how many Pokemon can be stationed there. To best control a Gym, station your most powerful Pokemon there to resist challenges from rival teams.
 
-Stationing a Pokemon at a Gym gives you, yes, awesome bragging rights. But it also gives you a **Defender Bonus** of 10 coins and 500 [Stardust](#raise-your-pokemon-s-cp) per stationed defender per 24-hour period. To redeem your reward, go to the Store while you have Pokemon stationed in a gym and tap the shield icon at the top right.
+Stationing a Pokemon at a Gym gives you, yes, awesome bragging rights. But it also gives you a **Defender Bonus** of 10 coins and 500 [Stardust](#raise-your-pokemon-s-cp) per stationed defender. To redeem your reward, go to the Store while you have Pokemon stationed in a gym and tap the shield icon at the top right. Defender Bonuses can be redeemed as soon as you have Pokemon stationed at a Gym, but cannot be redeemed again for 21 hours.
