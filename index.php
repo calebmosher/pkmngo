@@ -4,6 +4,13 @@ function include_section($sectionName, $isNav = false) {
 	include 'dist/sections/' . $sectionName . '.php';
 	echo $isNav ? '' : '</section>';
 }
+$all_sections = array(
+	'what-is-pokemon-go',
+	'getting-started',
+	'how-to-play-basics',
+	'pokemon-gyms',
+	'advanced-gameplay'
+);
 ?>
 
 <!DOCTYPE html>
@@ -42,19 +49,57 @@ function include_section($sectionName, $isNav = false) {
 		</h1>
 
 		<article>
-			<?
-				$all_sections = array(
-					'what-is-pokemon-go',
-					'getting-started',
-					'how-to-play-basics',
-					'pokemon-gyms',
-					'advanced-gameplay'
-				);
-				foreach ($all_sections as $section) {
-					include_section($section);
-				}
-			?>
+			<? include_section(array_shift($all_sections)) ?>
+
+			<? include_section(array_shift($all_sections)) ?>
+
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- PkmnGo.Tips Inline 1 -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:336px;height:280px"
+			     data-ad-client="ca-pub-2868989717589457"
+			     data-ad-slot="2765713430"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+
+			<? include_section(array_shift($all_sections)) ?>
+
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- PkmnGo.Tips Inline 2 -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:336px;height:280px"
+			     data-ad-client="ca-pub-2868989717589457"
+			     data-ad-slot="5719179834"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+
+			<? include_section(array_shift($all_sections)) ?>
+
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- PkmnGo.Tips Inline 3 -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:336px;height:280px"
+			     data-ad-client="ca-pub-2868989717589457"
+			     data-ad-slot="7195913037"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+
+			<? include_section(array_shift($all_sections)) ?>
+
 		</article>
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- PkmnGo.Tips Footer -->
+		<ins class="adsbygoogle"
+		     style="display:inline-block;width:320px;height:100px"
+		     data-ad-client="ca-pub-2868989717589457"
+		     data-ad-slot="8672646231"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
 
 		<footer>&copy; 2016 <a href="http://pkmngo.tips">PkmnGo.Tips</a></footer>
 	</main>
