@@ -16,6 +16,8 @@ Eggs come in three varieties: 2km, 5km, and 10km. As you can guess, these are th
 
 Another note about hatching eggs is that your distance is tracked by GPS, not your phone's pedometer. It will only calculate distance traveled by your Trainer while Pokemon Go is open, and will stop tracking distance if you're moving too fast. This means driving around with the app open is just as useless as wearing your phone while on a treadmill.
 
+With all this information in mind, hatching eggs is pretty straightforward. That being said, you may consider some strategies as well. Using your infinite Incubator on your smaller distance eggs (especially 2km) will get you more uses out of your Incubators. Another strategy is to wait and load up some eggs all at the same time, so they will hatch at the same time. Then, wait to plan a [Lucky Egg session](#level-up-your-trainer) until they are all about to hatch for a sweet XP boost.
+
 ### Level Up Your Trainer
 
 There is only one way to level up your Trainer, and that's by gaining XP. Luckily, most things you do in the game will get you XP.
