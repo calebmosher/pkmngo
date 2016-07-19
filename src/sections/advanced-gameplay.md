@@ -8,6 +8,8 @@ Eggs can only be received from [Pokestops](#pokestops), and you can only hold ni
 
 Eggs come in three varieties: 2km, 5km, and 10km. As you can guess, these are the walking distances required to hatch that particular egg. To begin counting your steps toward that number however, you'll need to put an egg into an Incubator.
 
+![Pokemon Go eggs must be incubated](/assets/egg-incubator.png)
+
 **Incubators** are pretty hard to come by. You'll receive one special orange Incubator at the start of the game that can be used an infinite number of times, and you'll also receive another one early on with limited usage. All Incubators besides the special orange one have limited usage, and will break after 3 uses. The easiest way to get more Incubators is to buy them in the Store for 150 coins (~$1.50).
 
 *Note: To see which Pokemon are hatched by which eggs, [see this list](http://i.imgur.com/9HdbtXA.jpg).*
@@ -42,6 +44,8 @@ In addition to these, you can also gain XP in a myriad of ways, such as:
 
 Beyond the aforementioned, items called **Lucky Eggs** can also be utilized. Contrary to their name, these items do not hatch anything, but instead will double *any* experience earned for the next 30 minutes after used. They're pretty rare to receive in-game, but can be bought at the Store for 80 coins (~$0.80).
 
+![Lucky Eggs are the best way to double your XP](/assets/lucky-egg.png)
+
 If you're looking for the **most effective way to earn XP quickly**, Lucky Eggs will be your best bet. Save up several low-cost evolution Pokemon like Pidgeys (12), Weedles (12), and Caterpies (12), or even Rattatas (25), Eevees (25), and Zubats (50) if you just have too many. Then, use a Lucky Egg and evolve as many as you can for the next 30 minutes. Pokemon evolutions give 500 XP, so 1000 XP each with the Lucky Egg.
 
 *Note: This XP strategy will only work after you've spent some time in the game. You'll need to have a lot of candy for any particular Pokemon to evolve many of them. If you're trying to plan out a maximum XP session, feel free to use the [Pidgey Calculator](http://pidgeycalc.com) created by Reddit user u/bchn.*
@@ -51,6 +55,8 @@ If you're looking for the **most effective way to earn XP quickly**, Lucky Eggs 
 Every Pokemon has a Combat Power (CP) level. The only way to "level" your Pokemon is to raise its CP level.
 
 The higher your Trainer's level, the higher level CP wild Pokemon will have. Also, your Trainer's level will determine the CP cap of your captured Pokemon. This cap can be observed by the white arc above the Pokemon in your Pokemon list. A Pokemon's CP cannot be raised past its cap.
+
+![Pokemon have a maximum level CP based on their Trainer's level](/assets/pokemon-cp-cap.png)
 
 To raise your Pokemon's CP, select it from the list and tap "Power Up". Each power up will require a certain amount of **Stardust**, as well as candy. Candy is specific to each Pokemon evolution ladder, but Stardust is shared between all of a Trainer's Pokemon—so be careful how you use it. As your Pokemon levels up, it will begin to cost more Stardust and more candy per power up.
 

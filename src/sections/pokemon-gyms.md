@@ -8,6 +8,8 @@ Once you [level up your Trainer](#level-up-your-trainer) to level 5, you have th
 * Team Mystic (blue)
 * Team Valor (red)
 
+![The three Pokemon Go teams](/assets/pokemon-teams.jpg)
+
 **Team Instinct** is lead by Spark, their color is yellow, and their legendary mascot is Zapdos. Spark believes that Pokemon have innate talents, and that success in battle is best achieved by trusting your—yep, you got it—instincts. As of now, team Instinct has the fewest members.
 
 **Team Mystic** is lead by Blanche, their color is blue, and their legendary mascot is Articuno. Blanche believes in reason and intellect over blind faith, and that success in battle is best achieved by using your wisdom. As of now, team Mystic is clearly the most popular as it has the most members of the three.
@@ -22,6 +24,8 @@ See the [Control a Gym](#control-a-gym) section to find out!
 ### Battle Other Pokemon
 
 You've declared a team, and you're ready to battle—here's how.
+
+![Electabuzz battles Blastoise](/assets/pokemon-battle.png)
 
 Every Pokemon has three moves: a standard attack, special attack, and dodge. You can see any Pokemon's attacks in your Pokemon list.
 
@@ -43,6 +47,8 @@ Depending on what team controls it, you will interact with a nearby Pokemon Gym 
 At **Rival Gyms**, you will go into battle with six of your best Pokemon and face off against all of the rival Pokemon stationed there in a row. Starting with the lowest-powered and ending with the highest-powered, fight your way to the top to decrease that Gym's prestige points and earn XP. Once you've brought their prestige to zero, you'll have the option to station one of your own Pokemon there and claim the Gym for yourself.
 
 At **Team Gyms**, you will take only one of your Pokemon into battle against all of your Team's friendly Pokemon stationed there in a row. By beating them, you will earn XP, as well as raise the prestige of that Gym for your team. Note that when you lose to your team's stationed Pokemon, your own Pokemon will be left with 1 HP instead of fainted (saving you some Revives).
+
+![Trainer Wallines defends Mozilla's San Francisc office](/assets/gym-leader.png)
 
 As the prestige of a Gym is raised, the Gym level will go up. Higher level Gyms will be able to have more Pokemon defenders, as a Gym's numeric level corresponds directly with how many Pokemon can be stationed there. To best control a Gym, station your most powerful Pokemon there to resist challenges from rival teams.
 

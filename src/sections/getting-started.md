@@ -13,6 +13,8 @@ The Google login should be the easiest way, but if you're on iOS and [aren't com
 
 Next, get yourself ready to be The Very Best by choosing a unique trainer name and selecting a cool trainer outfit from a (very limited) set of choices.
 
+![Pokemon Go Trainer customization](/assets/trainer-outfit-full.jpg)
+
 > **How do I join a Pokemon Go team?**  
 See the [Choose a Team](#choose-a-team) section to find out!
 
@@ -26,6 +28,8 @@ Now that your trainer is adventure-ready, it's time to choose a starter Pokemon.
 * Pikachu (secret)
 
 To get one of the first three, after you're done talking to Professor Willow, you'll see three Pokemon standing near you on the map. Tap the one you want and your first Pokemon encounter will start.
+
+![Catch your first Pokemon](/assets/starter-pokemon.png)
 
 **To get Pikachu**, ignore the first three Pokemon you see and walk away. After not selecting one for long enough, eventually Pokemon Go will get the hint and show you a Pikachu!
 
