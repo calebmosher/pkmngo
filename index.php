@@ -13,8 +13,11 @@ function include_section($sectionName, $isNav = false) {
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pokemon Go Tips</title>
 
+<title>Pokemon Go Tips</title>
+<meta name="description" content="Pokemon Go Tips has tips, tricks, strategy, and helpful guides on how to go from a newbie Pokemon Trainer to the ultimate Pokemon Go Master." />
+
+<meta name="keywords" content="pokemon go tips, pokemon go, pokego, pogo, tips, tricks, guide, strategy, pokemon go guide" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
 <link rel="icon" href="/assets/pokeball-medium-dark.png" />
@@ -38,18 +41,20 @@ function include_section($sectionName, $isNav = false) {
 			<span>The ultimate guide to playing and mastering Pokemon Go.</span>
 		</h1>
 
-		<?
-			$all_sections = array(
-				'what-is-pokemon-go',
-				'getting-started',
-				'how-to-play-basics',
-				'pokemon-gyms',
-				'advanced-gameplay'
-			);
-			foreach ($all_sections as $section) {
-				include_section($section);
-			}
-		?>
+		<article>
+			<?
+				$all_sections = array(
+					'what-is-pokemon-go',
+					'getting-started',
+					'how-to-play-basics',
+					'pokemon-gyms',
+					'advanced-gameplay'
+				);
+				foreach ($all_sections as $section) {
+					include_section($section);
+				}
+			?>
+		</article>
 
 		<footer>&copy; 2016 <a href="http://pkmngo.tips">PkmnGo.Tips</a></footer>
 	</main>

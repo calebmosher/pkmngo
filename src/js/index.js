@@ -36,6 +36,7 @@ $("nav .menu").click(function(e) {
 	}
 	$ul.slideUp(200);
 });
+
 $("nav > ul > li > a").click(function(e) {
 	e.preventDefault();
 
@@ -44,7 +45,7 @@ $("nav > ul > li > a").click(function(e) {
 	if ($ul.css("overflow") === "visible") {
 		$ul.slideUp(200);
 		window.setTimeout(function() {
-			$("html, body").animate({scrollTop: $(document).scrollTop() - 60}, 0);
+			$("html, body").animate({scrollTop: $(document).scrollTop() - 60}, 300);
 		}, 600);
 	}
 });
