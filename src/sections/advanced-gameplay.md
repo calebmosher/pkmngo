@@ -106,6 +106,12 @@ _Note: An asterisk (*) indicates theoretical (unconfirmed) data. For more inform
 
 It's also important to note that a fully evolved Pokemon will level faster and higher than any of its pre-evolved forms. So if your interested in leveling up one of your Pokemon, feel free to evolve it sooner vs later.
 
+**Eevee evolutions** also have a trick, since Eevee can evolve into one of three different Pokemon. To choose your evolution, you'll need to name your Eevee one of the following names before evolving it:
+
+* "Sparky" evolves into Jolteon
+* "Rainer" evolves into Vaporeon
+* "Pyro" evolves into Flareon
+
 ### Win Gym Battles
 
 You've leveled up your Trainer, you've powered up your Pokemon, but you just can't seem to win Pokemon Gym battles? Don't worry, once you learn the right strategies, you'll be able to hang with the best of them.
